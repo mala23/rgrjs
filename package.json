@@ -1,0 +1,10 @@
+{
+  "name": "rgrjs",
+  "version": "1.0.0",
+  "description": "A breakable toy for learning RGR.",
+  "main": "index.js",
+  "repository": "git@github.com:mala23/rgrjs.git",
+  "author": "Colin Nico Schmid <mail@mala23.me>",
+  "license": "MIT",
+  "private": true
+}
