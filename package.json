@@ -6,5 +6,8 @@
   "repository": "git@github.com:mala23/rgrjs.git",
   "author": "Colin Nico Schmid <mail@mala23.me>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }
